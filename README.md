@@ -1,3 +1,2 @@
 # UMMmods
-UnityModManager Mods
-Just a repository to have the version informations for mods for download.
+A repository to have the version informations for mods online available.

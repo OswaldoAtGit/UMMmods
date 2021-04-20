@@ -1,2 +1,2 @@
 # UMMmods
-A repository to have the version informations for mods using UnityModManager available online.
+Repo to serve the actual version information for my UnityModManager mods.
